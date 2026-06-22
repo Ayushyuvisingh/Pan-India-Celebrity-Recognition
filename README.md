@@ -1,3 +1,12 @@
+---
+title: Pan India Celebrity Recognition
+emoji: 🎭
+colorFrom: blue
+colorTo: purple
+sdk: docker
+pinned: false
+---
+
 # Pan India Celebrity Recognition
 
 Celebrity face recognition system built using:
@@ -8,6 +17,7 @@ Celebrity face recognition system built using:
 - Custom ResNet Model
 
 Supports:
+
 - Face Detection
 - Celebrity Recognition
 - Prediction History
