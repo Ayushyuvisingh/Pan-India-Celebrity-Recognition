@@ -2,7 +2,7 @@ fastapi==0.138.0
 uvicorn==0.49.0
 jinja2==3.1.6
 python-multipart==0.0.32
-numpy==2.5.0
+numpy==2.3.3
 opencv-python==4.13.0.92
 torch==2.6.0
 torchvision==0.21.0
