@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Database
+*.db
+
+# Uploads
+webapp/static/uploads/
+
+# Virtual Environment
+venv/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
