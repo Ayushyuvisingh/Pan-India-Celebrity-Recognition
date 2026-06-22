@@ -27,6 +27,11 @@ from database import (
 
 init_db()
 
+
+os.makedirs("static", exist_ok=True)
+os.makedirs("static/uploads", exist_ok=True)
+os.makedirs("static/results", exist_ok=True)
+
 # --------------------------------
 # STATIC
 # --------------------------------
